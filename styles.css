@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;600&display=swap');
+
+body {
+    text-align: center;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin: 5px;
+
+}
+
+#guess {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 10px;
+    border: 3px solid black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    background-color: #000;
+    padding: 10px;
+    width: 150px;
+    margin: 10px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 3px dashed white;
+}
+
+#playAgain {
+    display: none;
+}
