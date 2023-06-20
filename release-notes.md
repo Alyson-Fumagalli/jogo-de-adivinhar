@@ -9,4 +9,4 @@ Documento destinado para explicar as mudanças em cada uma das diferentes versõ
 * HTML e CSS básicos para estruturar e estilizar o site;
 * Funcionalidades em Javascript;
 * Jogo de adivinhação funcionando;
-* Link para o jogo: ;
+* Link para o jogo: https://alyson-fumagalli.github.io/jogo-de-adivinhar/;
