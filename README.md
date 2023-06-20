@@ -13,3 +13,4 @@ Realizado por Alyson César Fumagalli dos Santos Júnior, período 2023/1.
 É um jogo simples de adivinhação de números. Você deve acertar um número inteiro positivo aleatório entre **1 e 1000** em, no máximo, **10 tentativas**.
 A cada tentativa, é dada uma dica para auxiliar na adivinhação do número. Ela indica se o número chutado é **menor ou maior** do que o número a ser adivinhado.
 Quando o número aleatório é descoberto, encerra-se o jogo.
+Você pode jogá-lo clicando [aqui]().
